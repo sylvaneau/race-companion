@@ -9,6 +9,7 @@
         <Label Text="Welcome to Xamarin.Forms!" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
+        <!--<Entry Placeholder="{i18n:Translate NotesPlaceholder}" />-->
     </StackLayout>
 
 </ContentPage>
